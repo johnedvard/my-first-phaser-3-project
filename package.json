@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-webpack-template",
+  "name": "my-first-phaser-3-project",
   "version": "1.0.0",
-  "description": "Phaser 3 project template for Phaser Editor 2D v3",
+  "description": "My First Phaser 3 project",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack serve --mode=development --stats-error-details",
